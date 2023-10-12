@@ -10,6 +10,7 @@ You can view a live demo of the textbook book here: [https://kidwellj.github.io/
 Recipes included here include:
 * `nomis.R` Supporting content in chapter 1 which relies on UK census data. This was extracted from the nomis database using R tools
 * `ordnance_survey.R` Supporting geospatial content in chapter 3 which relies on Ordnance Survey geospatial data
+* `openstreetmap_parse.R` Script which can generate extracts from the OpenStreetMap database for content used in chapter 3
 
 # Copyright
 
